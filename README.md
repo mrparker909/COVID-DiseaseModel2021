@@ -1,4 +1,4 @@
-# CJSdiseaseModel2021
+# COVID-DiseaseModel2021
 R codes for model fitting using the disease analytics model from (INSERT CITATION HERE UPON PUBLICATION).
 
 Data in /Code Repository/Data/bccdc_NHA_weekly_non_cumulative.csv has been manually scraped from several publicly available sources: 
