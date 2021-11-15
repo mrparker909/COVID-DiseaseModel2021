@@ -1,5 +1,5 @@
 # COVID-DiseaseModel2021
-R codes for model fitting using the disease analytics model from Parker, M.R.P., Li, Y., Elliott, L.T., Ma, J., Cowen, L.L.E (2021). Under-reporting of COVID-19 in the Northern Health Authority region of British Columbia. Canadian Journal of Statistics [In Prep].
+R codes for model fitting using the disease analytics model from Parker, M.R.P., Li, Y., Elliott, L.T., Ma, J., Cowen, L.L.E (2021). Under-reporting of COVID-19 in the Northern Health Authority region of British Columbia. Canadian Journal of Statistics [https://doi.org/10.1002/cjs.11664].
 
 Data in /Code Repository/Data/bccdc_NHA_weekly_non_cumulative.csv has been manually scraped from several publicly available sources: 
 
